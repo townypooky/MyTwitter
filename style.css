@@ -1,0 +1,24 @@
+* {
+ 	font-family: "メイリオ";
+}
+
+textarea {
+	width:95%;
+	height: 120px;
+	font-size: 28px;
+}
+
+#wc {
+	font-weight: bold;
+}
+
+#article-list article {
+	border: 1px solid #525252;
+	padding: 16px 24px;
+	margin: 8px;
+}
+#article-list aside {
+	font-size: 90%;
+	text-align: right;
+	color: #333333;
+}
